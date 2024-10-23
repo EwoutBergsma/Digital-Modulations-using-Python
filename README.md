@@ -6,4 +6,3 @@ This is my attempt at following the book:
 - Date published: Dec 2019
 - ISBN: 9781712321638
 - [Link](https://dokumen.pub/digital-modulations-using-python-1nbsped-9781712321638.html)
-
